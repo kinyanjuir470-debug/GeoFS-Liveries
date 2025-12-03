@@ -1,0 +1,10 @@
+{
+  "name": "Qatar Airways - HD",
+  "author": "Raymond",
+  "textures": {
+    "fuselage": "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/textures/hd/qatar_fuselage_hd.png",
+    "tail": "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/textures/hd/qatar_tail_hd.png",
+    "wing": "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/textures/hd/qatar_wing_hd.png",
+    "engine": "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/textures/hd/qatar_engine_hd.png"
+  }
+}
